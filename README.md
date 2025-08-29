@@ -21,13 +21,13 @@
 
 ## 💡 Como usar:
 
-### Método 1 – VS Code
-1. Baixe o arquivo `Auto-Killer.exe`.
-2. Execute o arquivo `Auto-Killer.exe`.
+### VS Code
+1. Copie o arquivo `main.py`
+2. Execute o arquivo `main.py` no VS Code.
 3. Vá para o RankUP
 4. Inicie o macro.
 
 ## 🚨 Observações:
 
 - É importante lembrar que o macro foi criado para fins pessoais, não me responsabilizo por banimentos.
-- Caso queira ver um vídeo do macro funcionando, só baixar o vídeo com o nome `Auto-Killer.mp4`, disponibilizado aqui mesmo.
+- Caso queira ver um vídeo do macro funcionando, só baixar o vídeo com o nome `Auto-Killer 2 Plots.mp4`, disponibilizado aqui mesmo.
