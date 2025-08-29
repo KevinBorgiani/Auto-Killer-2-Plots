@@ -1,4 +1,4 @@
-# 🚀 Auto Killer Para 2 Plots – Macro para RankUP
+# 🚀 Auto Killer 2 Plots – Macro para RankUP
 
 **Versão Beta – feito por @KevinBorgiani**
 
@@ -24,7 +24,7 @@
 ### Método 1 – VS Code
 1. Baixe o arquivo `Auto-Killer.exe`.
 2. Execute o arquivo `Auto-Killer.exe`.
-3. Vá para o RankUp
+3. Vá para o RankUP
 4. Inicie o macro.
 
 ## 🚨 Observações:
